@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Akakø
 - 👀 I’m a french web and software developer
-- 🌱 I’m currently making small projets called mini project,
-     there are simple webpage with no backend and very little animations.
+- 🌱 I’m don't have any project for the moment but i'm looking for one
 - 💞️ I’m looking for one or more person to dev with
-- 📫 You can contact me on Akako.mail@gmail.com
+- 📫 You can contact me on akako.mail@gmail.com or on discord Akakø#1502
+
 
 
 <!---
