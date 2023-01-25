@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Akakø
 - 👀 I’m a french web and software developer
-- 🌱 I’m don't have any project for the moment but i'm looking for one
-- 💞️ I’m looking for one or more person to dev with
+- 🌱 I am a freelance web developer
 - 📫 You can contact me on akako.mail@gmail.com or on discord Akakø#1502
-
 
 
 <!---
